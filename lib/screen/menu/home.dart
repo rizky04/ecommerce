@@ -13,7 +13,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       body: Container(
         child: Center(
-          child: Text("Home"),
+          child: Text("Homee"),
         ),
       ),
     );
